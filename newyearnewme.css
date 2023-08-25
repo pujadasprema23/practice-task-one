@@ -51,5 +51,59 @@ font-weight: 600;
     text-align: right;
 }
 
+/*first section styles*/
 
+.second-container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    padding: 200px;
+}
 
+ul li{
+    list-style: none;
+}
+
+ul li:before {
+  content: '✓';
+  margin-right: 15px;
+  
+}
+
+.failures-title{
+    color: #151414;
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 0;
+}
+
+.failures-description{
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: 24px;
+margin-bottom: 0;
+}
+
+.failures-list{
+    color:  #444343;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+
+.logo-container{
+  
+}
+
+.logo{
+  
+}
+
+ul{
+    margin-top: 16px;
+}
+
+/*my plans section style*/
