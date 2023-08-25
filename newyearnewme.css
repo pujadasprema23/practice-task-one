@@ -120,6 +120,7 @@ font-weight: 700;
     justify-content: space-around;
     text-align: center;
     padding: 100px;
+    margin-bottom: 0;
 }
 
 .plans-description{
@@ -143,15 +144,16 @@ flex-shrink: 0;
     border-radius: 8px ;
     background-repeat: no-repeat;
     background-position: center;  
+    padding: 250px;
+    margin-top: 0;
 }
 
 
 
 .motivation-title{
-    color: #FFF;
+    color:white;
 font-size: 40px;
 font-weight: 700;
-/*padding: 200px;*/
 }
 
 .btn-primary{
@@ -165,6 +167,3 @@ padding: 21px 36px 20px 36px;
 border: none;
 }
 
-.btn-primary-container{
-    padding:
-}
