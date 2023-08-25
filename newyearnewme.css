@@ -95,7 +95,10 @@ line-height: 26px;
 }
 
 .logo-container{
-  
+   border-radius: 527.929px;
+background: rgba(241, 91, 34, 0.20);
+width: 527.929px;
+height: 527.929px;
 }
 
 .logo{
