@@ -137,7 +137,7 @@ flex-shrink: 0;
     border-radius: 8px ;
     background-repeat: no-repeat;
     background-position: center;  
-    padding: 250px;
+    padding: 50px;
     margin-top: 0;
 }
 
@@ -147,6 +147,7 @@ flex-shrink: 0;
     color:white;
 font-size: 40px;
 font-weight: 700;
+padding-left: 200px;
 }
 
 .btn-primary{
@@ -158,6 +159,7 @@ border-radius: 5px;
 background: #FFF;
 padding: 21px 36px 20px 36px;
 border: none;
+margin-left: 200px;
 }
 
 /*footer section styles*/
@@ -167,7 +169,9 @@ border: none;
     justify-content: space-between;
     background: black;
     align-items: center;
-    padding: 200px;
+    padding: 100px;
+    margin-top: 100px;
+    
 }
 
 .future-title{
@@ -221,4 +225,8 @@ padding: 20px;
 
 .last-logos img{
     margin-right: 10px;
+}
+
+.btn{
+    margin-left: 0;
 }
